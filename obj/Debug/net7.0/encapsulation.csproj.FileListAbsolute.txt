@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
